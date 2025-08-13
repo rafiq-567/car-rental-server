@@ -16,6 +16,7 @@ const allowedOrigins = [
     'http://localhost:5174',
     'https://car-rental-76f12.web.app',
     'https://car-rental-client-weld.vercel.app',
+    'https://car-rental-server2.vercel.app'
 
 ];
 
